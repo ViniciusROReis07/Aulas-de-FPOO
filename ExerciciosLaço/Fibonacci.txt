@@ -1,0 +1,8 @@
+fibonacci 
+ int n=1 
+int n2=1
+S.o.p();
+int n3=n0
+n3=n1+n2
+n1=n2
+n2=n3

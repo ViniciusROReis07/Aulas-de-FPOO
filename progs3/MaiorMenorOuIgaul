@@ -1,0 +1,8 @@
+import javax.swing.JOptionPane;
+  class MaiorMenorOuigual{
+    public static void main(String[] args) {
+  int numeor =  Interger.parseInt(JOptionPane.showInputDialog(null,"Informe o primeiro numero  "));
+
+
+    }
+  }
